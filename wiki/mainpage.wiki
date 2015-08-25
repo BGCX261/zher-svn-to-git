@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= 前言 =
+
+這是一個專門翻譯Erlang文件的wiki
+
+
+= 內容 =
+
+下列的條目,方便大家索引erlang文件
